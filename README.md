@@ -15,9 +15,14 @@ The Demographic dropdown option includes the subject metadata persisting of ID, 
 ![This is an image](https://github.com/cjallow01/belly-button-challenge/blob/main/Images/b-demographic.png)
 
 
+Compare OTUs on all of the samples in the bubble chart.
 
 ![This is an image](https://github.com/cjallow01/belly-button-challenge/blob/main/Images/d-bacteria-cultures.png)
 
 
-
+The final Belly Button Biodiversity Dashboard after completion of the project
 ![This is an image](https://github.com/cjallow01/belly-button-challenge/blob/main/Images/e-bellybuttonbiodiversitydashboard.png)
+
+**Contact:** 
+Name: Cherno Jallow
+Email: cjallow@hotmail.com
