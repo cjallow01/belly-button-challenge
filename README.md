@@ -1,13 +1,16 @@
 # belly-button-challenge
 
-Background
+**Background**
 
 In this challenge, I will be building an interactive dashboard to explore the Belly Button Biodiversity dataset Links to an external site., which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+The Plotly D3 Javascript library was used to create some of the visualizations. These visualizations are accessed via dropdown menu.
+
 ![This is an image](https://github.com/cjallow01/belly-button-challenge/blob/main/Images/a-test_subject.png)
 
 
+The Demographic dropdown option includes the subject metadata persisting of ID, Ethnicity, Gender, Age, Location, Body Type (bbtype), and Frequency of Washes.
 
 ![This is an image](https://github.com/cjallow01/belly-button-challenge/blob/main/Images/b-demographic.png)
 
